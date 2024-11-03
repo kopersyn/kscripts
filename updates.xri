@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by koperson.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="kscripts3.11.24.zip" sha1="79b325853701599cbb4b44a8f6edb84c691928fe" type="script" releaseDate="20241103">
+         <title>
+        kScripts
+      </title>
+         <description>
+            <p>
+kScripts Bundle - speed up your postprocessing.
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+
