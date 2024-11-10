@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts9.11.24.zip" sha1="15893e94552f2d16c659d7d08df99f07e940b24c" type="script" releaseDate="20241109">
+      <package fileName="kscripts11.11.24.zip" sha1="7cf3733ea99a14517655125c36f92a8dca1f098d" type="script" releaseDate="20241111">
          <title>
         kScripts
       </title>
@@ -18,4 +18,3 @@ kScripts Bundle - speed up your postprocessing.
       </package>
    </platform>
 </xri>
-
