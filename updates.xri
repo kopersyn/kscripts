@@ -11,13 +11,8 @@
         kScripts
       </title>
          <description>
-            <p></br>
+            <p>
 kScripts Bundle - speed up your postprocessing.
-</br>
-What's new:</br>
-- PixInsight Core version 1.9 support for all scripts</br>
-- kEmissionManager 1.0.2 update: Fixed temp preview images not turning off.</br>
-- kDenoiser: End of support.</br>
 		</p>
          </description>
       </package>
