@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="c401954196ee5cd1f4974417ac2a60107a087888" type="script" releaseDate="20241229">
+      <package fileName="kscripts.zip" sha1="c401954196ee5cd1f4974417ac2a60107a087888" type="script" releaseDate="20241230">
          <title>
         kScripts
       </title>
