@@ -6,16 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="c401954196ee5cd1f4974417ac2a60107a087888" type="script" releaseDate="20241230">
+      <package fileName="kscripts.zip" sha1="d234f84490f3ee013fc0694111560dd2046fdc9d" type="script" releaseDate="20241230">
          <title>
-        kStarRepair V0.5 Update
+        kHaBlending V1.0
       </title>
          <description>
             <p>
-kScripts Bundle - speed up your postprocessing.<br/><br/>
-
-What's new:<br/>
-- kStarRepair 0.5 update: New function: Selecting blending modes.
+kHaBlending provides easy to use interface, and very efficient method to blend Ha with RGB images.
 		</p>
          </description>
       </package>
