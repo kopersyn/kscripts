@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="d2bd4bf2553e4c5950aec5577392f97cef1c1997" type="script" releaseDate="20241231">
+      <package fileName="kscripts.zip" sha1="60abbf7b4b774adc60d7724a3eb5abbe13086a10" type="script" releaseDate="20241231">
          <title>
         kScripts Bundle (Major Update)
       </title>
