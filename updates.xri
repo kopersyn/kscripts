@@ -6,13 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts29.12.24.zip" sha1="cfdec348943cc74bbc5773889c9326214d393f64" type="script" releaseDate="20241229">
+      <package fileName="kscripts.zip" sha1="c401954196ee5cd1f4974417ac2a60107a087888" type="script" releaseDate="20241229">
          <title>
         kScripts
       </title>
          <description>
             <p>
-kScripts Bundle - speed up your postprocessing.
+kScripts Bundle - speed up your postprocessing.<br/><br/>
+
+What's new:<br/>
+- kStarRepair 0.5 update: New function: Selecting blending modes.
 		</p>
          </description>
       </package>
