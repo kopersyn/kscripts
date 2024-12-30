@@ -6,13 +6,16 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="d234f84490f3ee013fc0694111560dd2046fdc9d" type="script" releaseDate="20241230">
+      <package fileName="kscripts.zip" sha1="d2bd4bf2553e4c5950aec5577392f97cef1c1997" type="script" releaseDate="20241231">
          <title>
-        kHaBlending V1.0
+        kScripts Bundle (Major Update)
       </title>
          <description>
             <p>
-kHaBlending provides easy to use interface, and very efficient method to blend Ha with RGB images.
+What's new:<br/>
+- kStarRepair V0.6: New function: Replace to original image.<br/>
+- kEmissionManager V1.1: GUI Update: Zoom in/out function.<br/>
+- kHaBlending V1.1: GUI Update: Zoom in/out function.
 		</p>
          </description>
       </package>
