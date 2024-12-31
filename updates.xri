@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="6b4b0b5af3fe0c73cf74b52d0a1be7c8421b8638" type="script" releaseDate="20241231">
+      <package fileName="kscripts.zip" sha1="d94b7973e755fce2be261cb670d2d1b7802b75fe" type="script" releaseDate="20241231">
          <title>
-        kScripts Bundle (Icon Update)
+        kHaBlending V1.2
       </title>
          <description>
             <p>
-Added icons to scripts.
+GUI Update: Improved layout.
 		</p>
          </description>
       </package>
