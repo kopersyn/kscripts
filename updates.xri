@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="d94b7973e755fce2be261cb670d2d1b7802b75fe" type="script" releaseDate="20241231">
+      <package fileName="kscripts.zip" sha1="fcf492a735ad6bb303df129424f6727271684675" type="script" releaseDate="20241231">
          <title>
         kHaBlending V1.2
       </title>
