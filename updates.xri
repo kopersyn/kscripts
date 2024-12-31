@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="e857e1cb8b07708ef17d2f81eb3514c4d0e57431" type="script" releaseDate="20241231">
+      <package fileName="kscripts.zip" sha1="6b4b0b5af3fe0c73cf74b52d0a1be7c8421b8638" type="script" releaseDate="20241231">
          <title>
         kScripts Bundle (Icon Update)
       </title>
