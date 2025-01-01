@@ -5,16 +5,21 @@
       This is the repository for PixInsight scripts by koperson.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+   <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
       <package fileName="kscripts.zip" sha1="028500ff9fe4ffbb1a61fbf15c9fcf41470edffb" type="script" releaseDate="20250101">
          <title>
         kHaBlending V1.2.1 & kEmissionManager V1.1.2
       </title>
-         <description>
-            <p>
-Fixed low resolution image while zooming.
-		</p>
-         </description>
+      <description>
+        <h3>kHaBlending V1.2.1</h3>
+        <ul>
+           <li>Fixed low quality zooming.</li>
+        </ul>
+        <h3>kEmissionManager V1.1.2</h3>
+        <ul>
+           <li>Fixed low quality zooming.</li>
+        </ul>
+     </description>
       </package>
    </platform>
 </xri>
