@@ -6,13 +6,13 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="kscripts.zip" sha1="fcf492a735ad6bb303df129424f6727271684675" type="script" releaseDate="20241231">
+      <package fileName="kscripts.zip" sha1="028500ff9fe4ffbb1a61fbf15c9fcf41470edffb" type="script" releaseDate="20250101">
          <title>
-        kHaBlending V1.2
+        kHaBlending V1.2.1 & kEmissionManager V1.1.2
       </title>
          <description>
             <p>
-GUI Update: Improved layout.
+Fixed low resolution image while zooming.
 		</p>
          </description>
       </package>
