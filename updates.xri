@@ -6,20 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="028500ff9fe4ffbb1a61fbf15c9fcf41470edffb" type="script" releaseDate="20250101">
+      <package fileName="kscripts.zip" sha1="2144f3467f96c18e51083e6cab067475067ff890" type="script" releaseDate="20250103">
          <title>
-        kHaBlending V1.2.1 & kEmissionManager V1.1.2
+        Signature Update
       </title>
-      <description>
-        <h3>kHaBlending V1.2.1</h3>
-        <ul>
-           <li>Fixed low quality zooming.</li>
-        </ul>
-        <h3>kEmissionManager V1.1.2</h3>
-        <ul>
-           <li>Fixed low quality zooming.</li>
-        </ul>
-     </description>
+         <description>
+            <h3>Signature Update</h3>
+            <ul>
+               <li>Added signature to scripts.</li>
+            </ul>
+         </description>
       </package>
    </platform>
 </xri>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-02T23:37:40.993Z" encoding="Base64">8nDrzNfFJIto3lyVu99BsJh7Km6EVbaCh5ULX82vKGQA5Otsn6M+EscSN8Q7SbZ6gxEe4ZZjjvLkBf3O3CGUCQ==</Signature>
