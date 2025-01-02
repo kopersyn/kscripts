@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="2144f3467f96c18e51083e6cab067475067ff890" type="script" releaseDate="20250103">
+      <package fileName="kscripts.zip" sha1="e212091ae6830c832282e9319867b1f06c840247" type="script" releaseDate="20250103">
          <title>
         Signature Update
       </title>
@@ -19,4 +19,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-02T23:40:26.517Z" encoding="Base64">Q8RI4zF47afE3VVZDgonhJZVX3xiiMfZm4YIDa04ctHyHzl3fywK+Kn2HXWfiiyABf+E9mhDPEyEFRblaM1gDg==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-02T23:50:09.852Z" encoding="Base64">9f5OgVgJpGDWXU2XKIGcFasRM/vdpgXn+4/uttKjfX2s7fEPd+r9nxNuFh4UhVmcHJ0vCq/6/VOErr1eHRLWBw==</Signature>
