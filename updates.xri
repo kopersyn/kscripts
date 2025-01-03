@@ -11,7 +11,7 @@
         kAdvStarStretch V1.0.1
       </title>
          <description>
-            <h3>kAdvStarStretch V1.0 - Bugfix</h3>
+            <h3>kAdvStarStretch V1.0.1 - Bugfix</h3>
             <ul>
                <li>Fixed the not working green removal tool.</li>
             </ul>
@@ -19,4 +19,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T18:37:53.643Z" encoding="Base64">dc7gfM6v51YiAMRj1fM8P8uGaRJKuJKR6cuLuOOHiNKgs2mWsDIw31i19Xl1FuQICW+sRpmMMz8pGSs7Ds0RBg==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T18:40:40.662Z" encoding="Base64">Vf5/QehWuDU3wGJ6+YhX+CjODYZ0WRLnNhf7Ltyq4CvrAKFGnxu9ux4heNFpd3roy7tjlV3Sxez/k6433hHmAg==</Signature>
