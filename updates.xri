@@ -2,21 +2,22 @@
 <xri version="1.0">
    <description>
       <p>
-      This is the repository for PixInsight scripts by koperson.
+      This is the repository for PixInsight scripts by Igor Koprowicz.
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="e212091ae6830c832282e9319867b1f06c840247" type="script" releaseDate="20250103">
+      <package fileName="kscripts.zip" sha1="40601700aaef108a5759e84128b42b97902b469f" type="script" releaseDate="20250103">
          <title>
-        Signature Update
+        kAdvStarStretch V1.0
       </title>
          <description>
-            <h3>Signature Update</h3>
+            <h3>kAdvStarStretch V1.0</h3>
             <ul>
-               <li>Added signature to scripts.</li>
+               <li>This script handle stretching stars in unique way.</li>
+               <li>At first its using HistogramTransformation to brighten cores of stars, and then uses ArcsinhStretch to make them soft and colorful.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-02T23:50:09.852Z" encoding="Base64">9f5OgVgJpGDWXU2XKIGcFasRM/vdpgXn+4/uttKjfX2s7fEPd+r9nxNuFh4UhVmcHJ0vCq/6/VOErr1eHRLWBw==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:50:07.564Z" encoding="Base64">vkLRT/bmYFXP8NxD3iUHTm73/uBzFNPjKg31xykJiko5k8j36K/m6UDsd4NqhYyhRIvTIG2Tia0FGmqgt45hBA==</Signature>
