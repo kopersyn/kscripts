@@ -13,11 +13,10 @@
          <description>
             <h3>kAdvStarStretch V1.0</h3>
             <ul>
-               <li>This script handle stretching stars in unique way.</li>
-               <li>At first its using HistogramTransformation to brighten cores of stars, and then uses ArcsinhStretch to make them soft and colorful.</li>
+               <li>This script handle stretching stars in unique way. At first its using HistogramTransformation to brighten cores of stars, and then uses ArcsinhStretch to make them soft and colorful.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:50:07.564Z" encoding="Base64">vkLRT/bmYFXP8NxD3iUHTm73/uBzFNPjKg31xykJiko5k8j36K/m6UDsd4NqhYyhRIvTIG2Tia0FGmqgt45hBA==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:52:29.992Z" encoding="Base64">lKNEHfokYbdLvcIZyz8XiCUVXhCeUAx0OnwWoAXjLFFSEb+qoBuv29PFnG6ArLAcYM/mumM3BLUtLNe+CC9iAg==</Signature>
