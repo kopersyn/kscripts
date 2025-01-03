@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="40601700aaef108a5759e84128b42b97902b469f" type="script" releaseDate="20250103">
+      <package fileName="kscripts.zip" sha1="a5ec64cfa7cad724f24c0b63de2dfe143912af4b" type="script" releaseDate="20250103">
          <title>
         kAdvStarStretch V1.0
       </title>
@@ -19,4 +19,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:52:29.992Z" encoding="Base64">lKNEHfokYbdLvcIZyz8XiCUVXhCeUAx0OnwWoAXjLFFSEb+qoBuv29PFnG6ArLAcYM/mumM3BLUtLNe+CC9iAg==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:59:15.977Z" encoding="Base64">kxBNp61Ukeh0ADoapdL53e1li8tm5GGfB4nKmVKzTyrUZgtcrZ7l8UFVewBn/QILnTvDZCiDZq3xZsAE/qy8AQ==</Signature>
