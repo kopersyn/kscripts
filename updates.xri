@@ -6,17 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="a5ec64cfa7cad724f24c0b63de2dfe143912af4b" type="script" releaseDate="20250103">
+      <package fileName="kscripts.zip" sha1="a0fe7194d430439d567d527389d682091d82cef9" type="script" releaseDate="20250103">
          <title>
-        kAdvStarStretch V1.0
+        kAdvStarStretch V1.0.1
       </title>
          <description>
-            <h3>kAdvStarStretch V1.0</h3>
+            <h3>kAdvStarStretch V1.0 - Bugfix</h3>
             <ul>
-               <li>This script handle stretching stars in unique way. At first its using HistogramTransformation to brighten cores of stars, and then uses ArcsinhStretch to make them soft and colorful.</li>
+               <li>Fixed the not working green removal tool.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T16:59:15.977Z" encoding="Base64">kxBNp61Ukeh0ADoapdL53e1li8tm5GGfB4nKmVKzTyrUZgtcrZ7l8UFVewBn/QILnTvDZCiDZq3xZsAE/qy8AQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T18:37:53.643Z" encoding="Base64">dc7gfM6v51YiAMRj1fM8P8uGaRJKuJKR6cuLuOOHiNKgs2mWsDIw31i19Xl1FuQICW+sRpmMMz8pGSs7Ds0RBg==</Signature>
