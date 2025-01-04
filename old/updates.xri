@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by Igor Koprowicz.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
+      <package fileName="kscripts-old.zip" sha1="9363304e803758ab0f3fdf43eb343ddd62ba73f0" type="script" releaseDate="20250104">
+         <title>
+        kAdvStarStretch V1.0.1
+      </title>
+         <description>
+            <h3>kAdvStarStretch V1.0.1 - Bugfix</h3>
+            <ul>
+               <li>Fixed the not working green removal tool.</li>
+            </ul>
+         </description>
+      </package>
+   </platform>
+</xri>
