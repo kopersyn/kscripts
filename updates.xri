@@ -5,15 +5,17 @@
       This is the repository for PixInsight scripts by Igor Koprowicz.
     </p>
    </description>
-   <platform os="all" arch="noarch" version="1.8.9-1:1.9.2">
-      <package fileName="kscripts.zip" sha1="a0fe7194d430439d567d527389d682091d82cef9" type="script" releaseDate="20250103">
+   <platform os="all" arch="noarch" version="1.9.2:1.9.9">
+      <package fileName="kscripts.zip" sha1="6a980a77f18987419048e44ace8034b123fa2658" type="script" releaseDate="20250106">
          <title>
-        kAdvStarStretch V1.0.1
+        kAdvStarStretch V1.1
       </title>
          <description>
-            <h3>kAdvStarStretch V1.0.1 - Bugfix</h3>
+            <h3>kAdvStarStretch V1.1 Update</h3>
             <ul>
-               <li>Fixed the not working green removal tool.</li>
+               <li>Added black point slider.</li>
+               <li>Added reduce saturation button.</li>
+               <li>Improved UI.</li>
             </ul>
          </description>
       </package>
