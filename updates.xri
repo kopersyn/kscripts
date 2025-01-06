@@ -13,6 +13,7 @@
          <description>
             <h3>kAdvStarStretch V1.1 Update</h3>
             <ul>
+               <li>Added base stretch function.</li>
                <li>Added black point slider.</li>
                <li>Added reduce saturation button.</li>
                <li>Improved UI.</li>
@@ -21,4 +22,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-06T20:38:02.011Z" encoding="Base64">Fzkti8HaHJw+L6Em0qRzBY2JuCXsg/BhzqF/mK0zXZn0FoKXpfAZXfCP0vdUO4Iqi2UHJ5BZaFdq7SdfVE5sBQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-03T18:40:40.662Z" encoding="Base64">Vf5/QehWuDU3wGJ6+YhX+CjODYZ0WRLnNhf7Ltyq4CvrAKFGnxu9ux4heNFpd3roy7tjlV3Sxez/k6433hHmAg==</Signature>
