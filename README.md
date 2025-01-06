@@ -20,6 +20,7 @@
 6. Install the `kScripts` package.
 
 ### For PixInsight versions older than 1.9.2:
+**(scripts for this versions does not include developer certification)**
 1. Open PixInsight.
 2. Navigate to `Resources` > `Updates` > `Manage Repositories`.
 3. Click `Add` and enter the following URL: https://raw.githubusercontent.com/kopersyn/kscripts-old/main/
