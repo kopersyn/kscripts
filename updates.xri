@@ -6,20 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="0270609b38eb0c0ede01f169c055523c42e549db" type="script" releaseDate="20250107">
+      <package fileName="kscripts.zip" sha1="3fadc4ac03e84d454fad3f1a770e1b555045d316" type="script" releaseDate="20250117">
          <title>
-        kAdvStarStretch V1.1
+        kAdvStarStretch V1.2
       </title>
          <description>
-            <h3>kAdvStarStretch V1.1 Update</h3>
+            <h3>kAdvStarStretch V1.2 Update</h3>
             <ul>
-               <li>Added base stretch function.</li>
-               <li>Added black point slider.</li>
-               <li>Added reduce saturation button.</li>
-               <li>Improved UI.</li>
+               <li>Fixed bugged showing clipped values button.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-07T19:57:05.768Z" encoding="Base64">6T4FOSwysjLVbP7/+8hJxGFJhv5dkOX98GxCr8MCA9rc7HEpPuV5CD6owGTby3FVNu4DmK0dVfv9z3D8Nx6FDA==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-17T20:35:44.934Z" encoding="Base64">kCaCekksChOsNwOlwYUg6QwvXomJ5cKOX2eMuIirl0kr5DrPq1kI0qBM5H7UZMklSilbnx6MoEeTsNIvsRmKBQ==</Signature>
