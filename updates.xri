@@ -6,17 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="3fadc4ac03e84d454fad3f1a770e1b555045d316" type="script" releaseDate="20250117">
+      <package fileName="kscripts.zip" sha1="087aec570df61781321ef26629ab9ade3dd691d2" type="script" releaseDate="20250130">
          <title>
-        kAdvStarStretch V1.2
+        kStarRepair V0.7
       </title>
          <description>
-            <h3>kAdvStarStretch V1.2 Update</h3>
+            <h3>kStarRepair V0.7 Update</h3>
             <ul>
-               <li>Fixed bugged showing clipped values button.</li>
+               <li>Added ability to process monochome images.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-17T20:35:44.934Z" encoding="Base64">kCaCekksChOsNwOlwYUg6QwvXomJ5cKOX2eMuIirl0kr5DrPq1kI0qBM5H7UZMklSilbnx6MoEeTsNIvsRmKBQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-01-30T08:44:40.191Z" encoding="Base64">DzL1CI7PtffUGW3On+v72ouGHD+2hTyP02yp4hlGOCkq4B6taMU3bhp9F6bJrHcL0QgRaUi65oOwPMrJWvDOBw==</Signature>
