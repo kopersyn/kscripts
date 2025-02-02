@@ -6,17 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="087aec570df61781321ef26629ab9ade3dd691d2" type="script" releaseDate="20250130">
+      <package fileName="kscripts.zip" sha1="edc128c4b09574c0ee7d32dfe40de68fa56e3599" type="script" releaseDate="20250202">
          <title>
-        kStarRepair V0.7
+        kAdvStarStretch V1.3
       </title>
          <description>
-            <h3>kStarRepair V0.7 Update</h3>
+            <h3>kAdvStarStretch V1.3 Update</h3>
             <ul>
-               <li>Added ability to process monochome images.</li>
+               <li>Added option to use RGB color space.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-01-30T08:44:40.191Z" encoding="Base64">DzL1CI7PtffUGW3On+v72ouGHD+2hTyP02yp4hlGOCkq4B6taMU3bhp9F6bJrHcL0QgRaUi65oOwPMrJWvDOBw==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-02T00:52:44.479Z" encoding="Base64">REa8zRZ2+dt8L4Gv6Hs3xZ2h2pCW/RCmV1/wEdQ3vkd/PAuxLgobTVimFgY1y8F5JnbxMSFL7myrtFKKSGXHCQ==</Signature>
