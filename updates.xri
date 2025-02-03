@@ -6,20 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="968edd9216b4910f249933f08ba703ed72e78266" type="script" releaseDate="20250203">
+      <package fileName="kscripts.zip" sha1="1296ef4e245ecbc971c5a540af590d76f2e22357" type="script" releaseDate="20250203">
          <title>
-        kScripts Major Update
+        kAdvStarStretch V1.5
       </title>
          <description>
-            <h3>kScripts Major Update</h3>
+            <h3>kAdvStarStretch V1.5 Update:</h3>
             <ul>
-               <li>kAdvStretch V1.4: UI improvements.</li>
-               <li>kEmissionManager V1.2: UI improvements.</li>
-               <li>kHaBlending V1.3: UI improvements.</li>
-               <li>kStarRepair V0.8: UI improvements.</li>
+               <li>Changed range of ArcsinhStretch from 1-10 to 1-1000 - same as in process.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-03T08:53:13.834Z" encoding="Base64">Ypz+j9qjAJlfUFdBkdyCT6jwLNZoq/TitFLNI5+icwhoNlxAvMFFIdrMNSwIRph04sjwAHxYUfpR3bhhBaqtDA==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-03T22:19:20.211Z" encoding="Base64">C8siiSUxaqvtm1KNl9AbChIHgeEAPJfbyr73PuhHCgsm65Q1AaADvzM7x0/1+C3+81AdWneCj1ArMWsCDbY0BQ==</Signature>
