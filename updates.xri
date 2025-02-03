@@ -6,17 +6,20 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="edc128c4b09574c0ee7d32dfe40de68fa56e3599" type="script" releaseDate="20250202">
+      <package fileName="kscripts.zip" sha1="968edd9216b4910f249933f08ba703ed72e78266" type="script" releaseDate="20250203">
          <title>
-        kAdvStarStretch V1.3
+        kScripts Major Update
       </title>
          <description>
-            <h3>kAdvStarStretch V1.3 Update</h3>
+            <h3>kScripts Major Update</h3>
             <ul>
-               <li>Added option to use RGB color space.</li>
+               <li>kAdvStretch V1.4: UI improvements.</li>
+               <li>kEmissionManager V1.2: UI improvements.</li>
+               <li>kHaBlending V1.3: UI improvements.</li>
+               <li>kStarRepair V0.8: UI improvements.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-02T00:52:44.479Z" encoding="Base64">REa8zRZ2+dt8L4Gv6Hs3xZ2h2pCW/RCmV1/wEdQ3vkd/PAuxLgobTVimFgY1y8F5JnbxMSFL7myrtFKKSGXHCQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-03T08:53:13.834Z" encoding="Base64">Ypz+j9qjAJlfUFdBkdyCT6jwLNZoq/TitFLNI5+icwhoNlxAvMFFIdrMNSwIRph04sjwAHxYUfpR3bhhBaqtDA==</Signature>
