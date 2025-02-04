@@ -6,17 +6,21 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="1296ef4e245ecbc971c5a540af590d76f2e22357" type="script" releaseDate="20250203">
+      <package fileName="kscripts.zip" sha1="a8b381f2774e4ef0accfc71557ce32a4feb8396c" type="script" releaseDate="20250204">
          <title>
-        kAdvStarStretch V1.5
+        kStarRepair V1.0
       </title>
          <description>
-            <h3>kAdvStarStretch V1.5 Update:</h3>
+            <h3>kStarRepair V1.0 Update:</h3>
             <ul>
-               <li>Changed range of ArcsinhStretch from 1-10 to 1-1000 - same as in process.</li>
+               <li>New Function: Star DeBlowing - reducing blown-out star cores.</li>
+               <li>UI Update: Improved layout, larger window.</li>
+               <li>UI Update: Changed &apos;Execute&apos; button to icons, added Info button.</li>
+               <li>UI Update: Added Settings section: Moved blending methods and replace to original here. Added function which disable and enable Star DeBlowing section.</li>
+               <li>UI Update: New style of messages on chat while changing settings.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-03T22:19:20.211Z" encoding="Base64">C8siiSUxaqvtm1KNl9AbChIHgeEAPJfbyr73PuhHCgsm65Q1AaADvzM7x0/1+C3+81AdWneCj1ArMWsCDbY0BQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-04T21:16:38.776Z" encoding="Base64">jV7SuMz9822P5xtzBF5bPgtdLgzGjxthoUXEWA463MT0GQ3wYLjcD1rLCcBbJgRWPiBRYuYfuzSzbJCx5ZYeCw==</Signature>
