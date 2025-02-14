@@ -6,19 +6,21 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="f2653f6730d6e08bd7e77af4ad3bf599b5aeebf1" type="script" releaseDate="20250208">
+      <package fileName="kscripts.zip" sha1="4d2701c4df933f972ddc57276c8a3088ceab2188" type="script" releaseDate="20250214">
          <title>
-        kAdvStarStretch V1.6
+        kAdvStarStretch V1.7 &amp; kStarRepair V1.1
       </title>
          <description>
-            <h3>kAdvStarStretch V1.6 Update:</h3>
+            <h3>kAdvStarStretch V1.7 Update:</h3>
             <ul>
-               <li>New Function: Fine Adjustments in Arcsinh Stretch Controls</li>
-               <li>UI Update: Improved layout, added Group.</li>
-               <li>UI Update: Fixed preview scaling.</li>
+               <li>Window won&apos;t close after clicking execute button.</li>
+            </ul>
+            <h3>kStarRepair V1.1 Update:</h3>
+            <ul>
+               <li>UI Improvements.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-08T13:31:01.885Z" encoding="Base64">5MVg+pr/ZKUQP4nKSliGgGnKiLmHiSf5n19jmeq/AZJ3Je5fGe+vT0sA5vq60ylgljxMaOfRqUXIg7crBnXECw==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-14T11:20:08.558Z" encoding="Base64">Iox6dl1mAqszk6QSDFd6VirI/9rrLbSLbpOHLwFqrsWFiO5RdbVdnATMsYTCE9WWL7m8CRG2QoRz8AmkguwGCA==</Signature>
