@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="09249ae3e12b85d09b71df493c511aedb3e28e49" type="script" releaseDate="20250222">
+      <package fileName="kscripts.zip" sha1="75a4ee48e401adcbb1a6438d32d8bbff6a24d8bb" type="script" releaseDate="20250223">
          <title>
         kAdvStarStretch V1.7 &amp; kStarRepair V1.1
       </title>
