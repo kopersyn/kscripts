@@ -6,21 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="75a4ee48e401adcbb1a6438d32d8bbff6a24d8bb" type="script" releaseDate="20250223">
+      <package fileName="kscripts.zip" sha1="c7e5750d567d1f1760bea4fc5c9981cb23a2ac0a" type="script" releaseDate="20250223">
          <title>
-        kAdvStarStretch V1.7 &amp; kStarRepair V1.1
+        Signature Bug Fix
       </title>
          <description>
-            <h3>kAdvStarStretch V1.7 Update:</h3>
+            <h3>Signature Bug Fix</h3>
             <ul>
-               <li>Window won&apos;t close after clicking execute button.</li>
-            </ul>
-            <h3>kStarRepair V1.1 Update:</h3>
-            <ul>
-               <li>UI Improvements.</li>
+               <li/>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-23T11:15:55.235Z" encoding="Base64">DHb99nqoF5aUuH3AXqzvTarr2Ac0XIMLHNQHiN0ChBUVNUARIMN3G7VBo32QsFiRQS7LewOB6E5gmSgH6NfrDg==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-23T11:21:11.967Z" encoding="Base64">gHxYN9sQc0YmWqhyZS9DatjH2Nr3Lo9UhWMc8gg10c7uUKUtPpgfNsw93EPdIL9JT84dNw0pRkEesaunUSuaCg==</Signature>
