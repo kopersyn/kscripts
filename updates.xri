@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="34dab8615986e66b54468b12c83166146cf6da48" type="script" releaseDate="20250228">
+      <package fileName="kscripts.zip" sha1="7a1e9e9ab4795993776ccca3725429a084bfdcd0" type="script" releaseDate="20250228">
          <title>
         kStarRepair 1.2
       </title>
@@ -19,4 +19,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-28T17:19:24.973Z" encoding="Base64">jByzNqR8ofPnGUlhi7yVdsrNGqyMdTpqsSY3qFrPlAk/rpJIYhRXP75cgqQ2BZiJYE7IfRpFeziCermtFD44Cw==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-28T17:32:21.805Z" encoding="Base64">28EvkkQb1/rRK+yp2Xly+Lid8FH93J34TLjq9aZgSagnyfM7nwaTNpn88VfA6Br1AmgYjTcRDPnTsjj9wNiqCA==</Signature>
