@@ -6,17 +6,17 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="c7e5750d567d1f1760bea4fc5c9981cb23a2ac0a" type="script" releaseDate="20250223">
+      <package fileName="kscripts.zip" sha1="34dab8615986e66b54468b12c83166146cf6da48" type="script" releaseDate="20250228">
          <title>
-        Signature Bug Fix
+        kStarRepair 1.2
       </title>
          <description>
-            <h3>Signature Bug Fix</h3>
+            <h3>kStarRepair 1.2</h3>
             <ul>
-               <li/>
+               <li>Added Color Calibration function. Uses PhotometricColorCalibration or SpectrophotometricColorCalibration to get real star colors.</li>
             </ul>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-02-23T11:21:11.967Z" encoding="Base64">gHxYN9sQc0YmWqhyZS9DatjH2Nr3Lo9UhWMc8gg10c7uUKUtPpgfNsw93EPdIL9JT84dNw0pRkEesaunUSuaCg==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-02-28T17:19:24.973Z" encoding="Base64">jByzNqR8ofPnGUlhi7yVdsrNGqyMdTpqsSY3qFrPlAk/rpJIYhRXP75cgqQ2BZiJYE7IfRpFeziCermtFD44Cw==</Signature>
