@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by Igor Koprowicz.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.9.2:1.9.9">
+      <package fileName="kscripts.zip" sha1="bfc05224e2c97af470cfd69fe6a0335c66ebe451" type="script" releaseDate="20250801">
+         <title>
+        kFastRename 1.0
+      </title>
+         <description>
+            <h3>New Script!</h3>
+            <ul>
+               <li>kFastRename 1.0 - Script fasten image renaming.</li>
+            </ul>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="IgorKoprowicz" timestamp="2025-08-01T20:30:04.024Z" encoding="Base64">dV8tQa/BrDjlcgGbyk3o9oox8Ky09/X2L8QEI7Ce03z4r14aPmIfqeiO3gAvQP0cpgv7xL8c/P0usyagIB3kDA==</Signature>
