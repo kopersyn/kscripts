@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.2:1.9.9">
-      <package fileName="kscripts.zip" sha1="cb7ccf771fafb80569257ff30c54d81b1139ba4e" type="script" releaseDate="20250801">
+      <package fileName="kscripts.zip" sha1="dc6c154e5b6888e4eab3fe257dda67fb60ca7461f41f71b1b1a6e0f7b8bcda72" type="script" releaseDate="20250801">
          <title>
         kFastRename 1.0
       </title>
@@ -19,4 +19,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2025-08-01T09:34:01.370Z" encoding="Base64">2BPp7yCMoi8vNKcnH8wB8pu71Wgo+u7P86Weq1RIZGPOmVqNTf6xLHL8NjiQVexJ83lVcaM+Q+cCMmPpRCWACQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2025-08-01T09:39:01.694Z" encoding="Base64">//65UAAfFwZpSn8+cVWOQIn3vkUZhd+QqX7IXcXNmLVYXxgev8rLbYmjyngtwnHpaZz7QGXJFmqiIOVyn27/CA==</Signature>
