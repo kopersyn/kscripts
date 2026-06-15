@@ -7,7 +7,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="kscripts.zip" sha1="6b3317ba7d8c05c6b1dbd8683edd4296b4bf4fe4" type="script" releaseDate="2026-06-15T12:54:49Z">
+      <package fileName="kscripts.zip" sha1="6b3317ba7d8c05c6b1dbd8683edd4296b4bf4fe4" type="script" releaseDate="20260615">
          <title>
         kScripts Suite V1.1 (Major Update)
       </title>
@@ -29,4 +29,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2026-06-15T10:55:21.955Z" encoding="Base64">PyPrKckVNaVOBdvXP8Zo2sQcqtvb5F7SziU7Ait1xuuIzJpKOuSjWNnOCUqYVY1YpxIFasVMDnz6t859NH/QCQ==</Signature>
+<Signature developerId="IgorKoprowicz" timestamp="2026-06-15T10:58:14.699Z" encoding="Base64">6gGmEULHrWqjxIcn0dsXWhEeSBsx+sdjUx9nITNBxReYrPXAdLY+CP1N90/Mskd9Key4dAVJuUF7tVr9+paECQ==</Signature>
