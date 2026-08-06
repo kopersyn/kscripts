@@ -7,26 +7,15 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.9.4:1.9.9">
-      <package fileName="kscripts.zip" sha1="6b3317ba7d8c05c6b1dbd8683edd4296b4bf4fe4" type="script" releaseDate="20260615">
+      <package fileName="kscripts06082026.zip" sha1="6b3317ba7d8c05c6b1dbd8683edd4296b4bf4fe4" type="script" releaseDate="20260806">
          <title>
-        kScripts Suite V1.1 (Major Update)
-      </title>
+            kScripts Suite - kStarRepair v1.3.1
+         </title>
          <description>
-            <h2>kScripts Suite - Now compatible with new V8 JavaScript Engine</h2>
-            <p>This update ports the entire kScripts Suite to the new high-performance V8 JavaScript engine.</p>
-            <ul>
-               <li>
-                  <b>Full V8 Runtime Support:</b> Optimized for PixInsight 1.9.4+.</li>
-               <li>
-                  <b>General Improvements:</b> Internal cleanup, more readable naming map structures, and modern ECMAScript code optimizations.</li>
-               <li>
-                  <b>Bug Fixes:</b> Addressed minor issues related to the legacy SpiderMonkey engine transition.</li>
-               <li>
-                  <b>Removed kFastRename:</b> Removed from the suite to streamline the package and focus on core image processing tools.</li>
-            </ul>
+            <h2>kStarRepair v1.3.1</h2>
+            <p>Fixed V8 engine translation/compatibility bug in kStarRepair.</p>
             <p>Copyright (c) 2026 Igor Koprowicz. All Rights Reserved. Based on software from the PixInsight project, developed by Pleiades Astrophoto (https://pixinsight.com/).</p>
          </description>
       </package>
    </platform>
 </xri>
-<Signature developerId="IgorKoprowicz" timestamp="2026-06-15T10:58:14.699Z" encoding="Base64">6gGmEULHrWqjxIcn0dsXWhEeSBsx+sdjUx9nITNBxReYrPXAdLY+CP1N90/Mskd9Key4dAVJuUF7tVr9+paECQ==</Signature>
